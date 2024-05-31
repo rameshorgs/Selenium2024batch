@@ -26,7 +26,7 @@ class Datatypeexample {
 
     public static void main(String[] args) {
 
-        System.out.println("Anusha unmuting the class always without any reason ");
+        System.out.println("Statement ");
 
         Datatypeexample da=new Datatypeexample();   //we can create a Object
 
