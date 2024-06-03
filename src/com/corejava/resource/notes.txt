@@ -1,0 +1,119 @@
+Operators
+--------
+operator is a symbol which will perform an operation.
+
+int a=10;
+int b=20;
+
+int c=a+b;
+
+a,b are called operands
++ = operators
+
+Types of operators
+----------------
+1) Arithmetic operators   + - * / %
+2) Relational/comparison operators  >  >=  <  <=  !=  ==
+3) Logical operators   &&   ||  !
+4) Increment & Decrement operators  ++  --
+5) Assignment   =   +=   -=   *= /=  %=
+6) conditional/ternary operator  ?:
+
+Unary Operators: ++  -- =   +=   -=   *= /=  %=  !
+Binary operators: + - * / % >  >=  <  <=  !=  ==  &&   ||
+ternary operator:   ?:
+
+
+Looping statements
+-------------
+
+loop  or iteration -  executing same set of statements multiple times.
+
+1) while
+2) do while
+3) for loop
+
+
+Initilization
+condition
+incrementation
+
+
+while(condition)
+{
+statements;
+}
+
+
+
+do
+{
+statements;
+}while(condition);
+
+
+for(initilization; condition ; inc/dec )
+{
+statements;
+}
+
+
+** which loop is prefered to use
+-----
+* If you know the number of iterations in advance, the for loop is often the most suitable.
+* If you want to execute the loop at least once, the do-while loop is appropriate.
+* If you are uncertain about the number of iterations and the loop termination is based on a condition, the while loop is a good choice.
+
+
+Bike --> for
+bus -- > do while
+flight ----> while
+
+Jumping statements
+----------
+break
+continue
+
+
+control statements
+-------
+conditional ----> if   if--else   switch case
+loops ----------> while    do-while   for
+jump ------------> break  continue
+
+
+
+
+Create family with 4 packages with family grandfather , Father  and son
+
+Family
+      grandafather
+      father
+      son
+
+      Here 75  and son name as variable
+
+ Print the statement in the grandafather class as
+
+ granfather " "Krishna" age is 75 and my property goes to "tirupalu" "
+
+ father  "tirupalu has "3" children  and names "chndra" "sunitha" and "pooja"
+
+ son  "Chandra" am active and enthuism person in "agriculture" and habbit of swimming  and my is "26"
+
+ family === MAIN METHOD === YOU NEED CALL ALL THE CLASS AND PRINT THE METHODS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
