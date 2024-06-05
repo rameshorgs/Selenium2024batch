@@ -54,6 +54,7 @@ public class Switchexample {
                 System.out.println("No Condition");
         }
     }
+
     public static void main(String[] args) {
 
         Switchexample swi= new Switchexample();
