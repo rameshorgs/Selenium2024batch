@@ -18,6 +18,7 @@ public class Ifexample {
                 System.out.println("first class");
             } else if (c<70) {
                 System.out.println("Distinction class");
+
             }else{
                 System.out.println("Fail");
             }
@@ -25,13 +26,14 @@ public class Ifexample {
     }
 
     public void ififexample(){
+
         int a=35;
 
         int b=60;
 
         int c=70;
-        if(c>75)
 
+        if(c>75)
             if(a<45){
                 if (b<70){
                     System.out.println("Pass");
@@ -49,9 +51,7 @@ public class Ifexample {
     }
 
     public static void main(String[] args) {
-
-
-
+        
 
     }
 }
