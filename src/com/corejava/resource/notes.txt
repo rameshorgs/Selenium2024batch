@@ -38,6 +38,103 @@ Initilization
 condition
 incrementation
 
+Conditions
+
+If
+if else
+Nested If
+
+If Syntax
+
+if(condition){
+//code to be executed
+}
+
+int a =10;
+int b=20
+
+a>b
+a<b
+a=b
+
+if else
+
+Single  if and else
+if(condition){
+//code to be executed
+}
+else{
+}
+
+
+if(condition)
+vkjvdv
+
+vrre
+v
+vre
+vr
+vvr
+
+Multiple Condition
+
+
+if(Condition ){
+
+}
+else if(Condition){
+
+}
+
+else if(Condition){
+
+}
+else{
+
+}
+
+Switch
+
+whenever we need to  excute one statement with multiple conditions
+
+
+Syntax
+
+switch(expression){
+
+case value1:
+ //code to be executed;
+ break;  //optional
+case value2:
+ //code to be executed;
+ break;  //optional
+......
+
+default:
+  code to be executed if all cases are not matched;
+}
+
+
+
+For Loop
+
+To iterate a program serveral times  based on some condition  with defined number of iteration
+
+Syntax
+
+for(initialization; condition; increment/decrement){
+//statement or code to be executed
+}
+
+
+for(int i=1;i<=10;i++){
+
+}
+
+for(data_type variable : array_name){
+//code to be executed
+}    
+
 
 while(condition)
 {
@@ -104,6 +201,13 @@ Family
  family === MAIN METHOD === YOU NEED CALL ALL THE CLASS AND PRINT THE METHODS
 
  Practice bitwise operator topics .
+
+
+ Assignement
+ write the program of ifelse based flow chart
+ Print the Months when user given number 1 to 12.
+
+
 
 
 
