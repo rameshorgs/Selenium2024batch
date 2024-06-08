@@ -135,6 +135,7 @@ for(data_type variable : array_name){
 //code to be executed
 }    
 
+Syntax of while
 
 while(condition)
 {
@@ -207,6 +208,164 @@ Family
  write the program of ifelse based flow chart
  Print the Months when user given number 1 to 12.
 
+
+Array :
+
+ an array is a collection of similar type of elements
+
+ int arr1[]; declaration of array
+
+ int arr2[]={1,2,3,4,5,6}; //declare and intialization of array
+
+ int arr3[]=new int[6];
+
+ arr3[0]=1;
+ arr[1]=2;
+ arr[2]=3;
+ arr[3]=20;
+ arr[4]=50;
+ arr[5]=60;
+ arr[6]=70;
+
+
+ String arr4[]={"Ramesh,"Altaf,"anusha","Kiran"};
+
+ String arr5[]=new String["Ramesh,"Altaf,"anusha","Kiran"]
+
+ Different types of the array
+
+ Single Dimentional array
+ Multi dimentionl array
+
+ int arr[][]=new int[2][3] //2*3
+
+ arr[0][0]=1;
+ arr[0][1]=30;
+ arr[0][2]=50;
+ arr[1][0]=60;
+ arr[1][1]=80;
+ arr[1][2]90;
+
+
+
+
+Caracter=  [ram,rami,engneer, team lead , friend ]
+
+Family ={father ,mother , brother , sister }
+
+age = {55,45,25,21]
+
+Switch  charc
+
+    case husband
+
+     i am husband of my wife
+
+     case father
+
+     i am son of my
+
+     case brother
+
+
+     if (name= arr[i])
+     {
+     print  age  + 55
+     }
+     elsename  {
+     print age +
+     }
+
+
+Constructor
+
+ a constructor is a block of codes similar to the method.
+ It is called when an instance of the class is created. At the time of calling constructor.
+
+ There are two rules defined for the constructor.
+
+ Constructor name must be the same as its class name
+ A Constructor must have no explicit return type
+ A Java constructor cannot be abstract, static, final, and synchronized
+
+ default parmeterized Constructor
+ Parameterized Constructor
+
+we are constructing the data while creating the Object is called constructor
+
+  class Constructorex{
+
+  public void m1(){
+
+  }
+
+  public void m2(){ // Normal Method
+
+  }
+
+  public  Constructorex(){ // constructor Method
+
+  }
+
+public String Constructorex(){ //not a  constructor Method
+
+  }
+
+  Main(){
+
+  Constructorex con= new Constructorex();
+
+  con.m2();
+
+
+  }
+
+  }
+
+
+Inheritance
+
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
+
+Class  classname extends anotherclassname{
+
+//classname is Subclass  and anotherclassname is super class
+
+}
+
+class grandfather (){
+
+public void property(){
+sop("20 acres land ");
+}
+
+
+}
+
+class father extends grandfather(){
+
+public void myproperty(){
+property();
+
+}
+main(){
+
+}
+}
+
+
+
+String
+
+String is collection of characters and declared in double quotes and immutable
+
+String is non primitive data type  Array  is non primitive data type
+
+String is a class ; lot of methods with lot of properties
+
+String value="Ramesh"; // IMmutable
+
+String value = new String("Ramesh") // parameterized constructor
 
 
 
