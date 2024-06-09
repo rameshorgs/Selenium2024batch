@@ -368,6 +368,20 @@ String value="Ramesh"; // IMmutable
 String value = new String("Ramesh") // parameterized constructor
 
 
+This Keyword
+
+Reference Varaiable that referes to current object
+
+
+1) this: to refer current class instance variable
+2) this: to invoke current class method
+3) this() : to invoke current class constructor
+
+Super :
+
+it used to immediate parent class
+
+
 
 
 
