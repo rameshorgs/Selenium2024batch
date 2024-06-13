@@ -380,7 +380,29 @@ Reference Varaiable that referes to current object
 Super :
 
 it used to immediate parent class
+                                                                               
+TYpe Casting
 
+Widening casting
+Narrow caSting
+
+
+Exception handling
+
+  Try
+  catch
+  finally
+
+
+Sysntax
+
+try {
+  //  if user thought their might me some wrong in  logic
+}
+catch(Exception e) {
+  // give the exception
+
+}
 
 
 
