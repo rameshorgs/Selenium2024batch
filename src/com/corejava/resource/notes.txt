@@ -451,11 +451,48 @@ String = "Ramesh is teach Java class on Saturday";
 // Mark method in input output streams
 
 
+Encapsulation
+
+Encapsulation in Java is a process of wrapping code and data together into a single unit, for example,
+ a capsule which is mixed of several medicines.
+
+ Encapsulation is the process where it will provide Security .
+
+ Class{
+
+ int sal=10;
+
+ int age =25;
+
+ String name ="Ramesh";
+
+ m1(){
+
+ }
+
+ m2(){
+
+ }
+ }
 
 
+Polymorphism
+Overloading
+If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
 
+Class A{
 
+m1(int a)
 
+m1(doble a)
+
+m1(String name)
+
+m1(float a)
+
+m1(int a,double b)
+}
+}
 
 
 
