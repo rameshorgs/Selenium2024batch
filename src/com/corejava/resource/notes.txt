@@ -495,7 +495,56 @@ m1(int a,double b)
 }
 
 
+Abstraction :
+
+Abstraction in Java is the process in which we only show essential details/functionality to the user.
+
+Abstraction is achieved by interfaces and abstract classes. We can achieve 100% abstraction using interfaces.
+
+Abstarct Method and Abstarct Class
+
+An abstract class is a class that is declared with an abstract keyword.
+
+An abstract method is a method that is declared without implementation.
+
+An abstract class may or may not have all abstract methods
+
+Any class that contains one or more abstract methods must also be declared with an abstract keyword.
+
+There can be no object of an abstract class. That is, an abstract class can not be directly instantiated with the new operator.
+
+An abstract class can have parameterized constructors and the default constructor is always present in an abstract class.
 
 
+Interface
+
+Class
+
+Interface
+
+In class, you can instantiate variables and create an object.	In an interface, you can’t instantiate variables and create an object.
+A class can contain concrete (with implementation) methods  	The interface cannot contain concrete (with implementation) methods.
+The access specifiers used with classes are private, protected, and public.	In Interface only one specifier is used- Public.
+
+Through interface we can acheive  multiple inheritance
+
+Collection :
+
+Any group of individual objects that are represented as a single unit is known as a Java Collection of Objects.
+
+The “Collection Framework” has been defined in JDK 1.2 which holds all the Java Collection Classes and Interface in it.
+
+ List
+
+Class A{
+
+Main {
+
+List <A> li= new Arraylist()
+list <A> l11= new Linkedlist()
+
+Arraylist al=new Arraylist()
 
 
+}
+}
